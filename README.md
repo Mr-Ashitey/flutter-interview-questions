@@ -13,10 +13,10 @@ these questions and answers are collected from different resources on the intern
 1.What is the difference between a `StatelessWidget` and a `StatefulWidget` in Flutter?
 
 Stateless Widget
-A stateless widget can not change their state during the runtime of an app which means it can not redraw its self while the app is running. Stateless widgets are immutable.
+A stateless widget cannot change their state during the runtime of an app, which means it cannot redraw itself while the app is running. Stateless widgets are immutable.
 
 Stateful Widget
-A stateful widget can redraw itself multiple times, while the app is running which means its state is mutable. For example, when a button is pressed, the state of the widget is changed
+A stateful widget can redraw itself multiple times while the app is running, which means its state is mutable. For example, when a button is pressed, the state of the widget is changed
 
 ---
 
